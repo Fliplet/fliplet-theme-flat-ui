@@ -1,0 +1,13 @@
+{
+  "name": "Flat UI",
+  "package": "com.fliplet.theme.flat",
+  "version": "1.0.0",
+  "icon": "images/icon.png",
+  "dependencies": ["bootstrap-css"],
+  "assets": [
+    "css/flat-ui.css"
+  ],
+  "settings": {
+    "configuration": []
+  }
+}
